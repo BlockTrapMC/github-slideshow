@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Block Trap MC is the best minecraft server ever!
 Use the left arrow to go back!
